@@ -1,4 +1,3 @@
-# Maths-Game-Aru
 import React, { useState, useEffect } from 'react';
 
 // Main App component
